@@ -1,0 +1,7 @@
+Nama: tara
+Umur: 18
+Alamat: palembang
+
+Nama: budi
+Umur: 18
+Alamat: pekalongan
