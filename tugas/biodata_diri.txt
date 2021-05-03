@@ -1,0 +1,17 @@
+Nama: afiq
+Umur: 19
+Gender: laki-laki
+Kewarganegaraan: indonesia
+Alamat: sukoharjo
+
+Nama: maryam
+Umur: 18
+Gender: perempuan
+Kewarganegaraan: turki
+Alamat: istanbul
+
+Nama: siti
+Umur: 18
+Gender: perempuan
+Kewarganegaraan: indonesia
+Alamat: wonosobo
